@@ -1,0 +1,20 @@
+{
+  "name": "hemraj82.codegenerator",
+  "title": "Code Generator",
+  "description": "This is a code generator extension for StarUML 4.0.0 or higher.",
+  "homepage": "",
+  "version": "1.0.0",
+  "keywords": [
+    "StarUML",
+    "Code Generator"
+  ],
+  "author": {
+    "name": "Hemraj MN ",
+    "email": "hemraj82@gmail.com",
+    "url": "https://github.com/hemraj82"
+  },
+  "license": "MIT",
+  "engines": {
+    "staruml": ">=6.0.0"
+  }
+}
